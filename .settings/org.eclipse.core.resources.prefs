@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/ipartek/formacion/web_service_soap/AlumnoInfo.java=UTF-8
+encoding//src/com/ipartek/formacion/web_service_soap/AlumnosPort.java=UTF-8
+encoding//src/com/ipartek/formacion/web_service_soap/AlumnosPortService.java=UTF-8
+encoding//src/com/ipartek/formacion/web_service_soap/AlumnosPortServiceLocator.java=UTF-8
+encoding//src/com/ipartek/formacion/web_service_soap/AlumnosPortSoap11Stub.java=UTF-8
+encoding//src/com/ipartek/formacion/web_service_soap/GetAlumnoRequest.java=UTF-8
+encoding//src/com/ipartek/formacion/web_service_soap/GetAlumnoResponse.java=UTF-8
